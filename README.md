@@ -11,4 +11,5 @@ This project is a mini version of a working blogging website. This project is do
 ### Installation Guide.
 
 1.Once you forked this repo. Make sure to run `npm install` command inside the folder to install all the package.
+
 2.After installing packages. You must go to your firebase console and make a project. Copy project credentials and paste it to "firebase.js" file. Otherwise you'll not be able to access database.
